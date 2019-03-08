@@ -1,2 +1,2 @@
 # calculator
-project calculator for tsting jenkins
+project calculator for testing jenkins
